@@ -1,0 +1,13 @@
+.item {
+  border-top: 1px solid black;
+  padding: 5px 0;
+  margin-top: 5px;
+}
+
+.item_program {
+  font-size: 14px;
+}
+
+.item_date {
+  font-size: 12px;
+}
